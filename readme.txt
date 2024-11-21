@@ -1,4 +1,4 @@
-=== MainWP Migration Helper: MainWP Migration Helper  ===
+=== MainWP Dashboar Connect ===
 Contributors: mainwp
 Tags: manage multiple WordPress sites, WordPress maintenance, update, backups, security
 Author: mainwp
